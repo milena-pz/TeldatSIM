@@ -1,26 +1,20 @@
-TeldatSIM – Milena Petrova
+# 📦 TeldatSIM - Sistema de Gestión de Inventario para Tarjetas SIM
 
+Este proyecto surge de la necesidad de optimizar el control de tarjetas SIM utilizadas en equipos Teldat, sustituyendo procesos manuales por una solución automatizada y centralizada.
 
+## 🎯 El Problema
+Anteriormente, el seguimiento de las tarjetas se hacía en hojas de cálculo, lo que provocaba errores de duplicidad y falta de trazabilidad en las entregas a técnicos.
 
-Esta es una herramienta práctica y funcional para gestionar el inventario de móviles y tarjetas SIM.
+## ✅ Mi Solución
+Desarrollé una aplicación de escritorio integral que permite:
+- **Gestión de Stock:** Control en tiempo real de entradas y salidas de almacén.
+- **Validación Automática:** Implementación de algoritmos para evitar errores en la introducción de ICCIDs.
+- **Informes:** Generación automática de reportes para auditoría.
 
-▶ Requisitos del sistema:
-- Windows 10 u 11 (64 bits)
-- No es necesario tener Java instalado
+## 🛠️ Tecnologías y Decisiones Técnicas
+- **Lenguaje:** Java (JDK 17). Elegido por su robustez y facilidad de despliegue en entornos corporativos.
+- **Persistencia:** (Aquí pon si usaste MySQL, SQLite o ficheros).
+- **Arquitectura:** Seguí un patrón (ej: MVC) para asegurar que el código sea fácil de mantener y escalar.
 
-▶ Instrucciones de uso:
-1. Haz doble clic en `TeldatSIM.exe`.
-2. Si Windows muestra una advertencia ("Windows protegió tu PC"):
-   - Haz clic en "Más información".
-   - Luego selecciona "Ejecutar de todas formas".
-3. Todos los datos se guardan localmente en el archivo `inventario.db`.
-
-Para reiniciar la base de datos, utiliza el archivo `init.sql`.
-
-Consulta el manual de usuario para obtener instrucciones detalladas.
-
-📧 Contacto:
-Para cualquier duda, puedes escribirme a:  
-**milenapetrovaj@gmail.com**
-
-¡Gracias por tu apoyo!
+## 🚀 Desafío Técnico
+El mayor reto fue (ejemplo: la integración de la base de datos / la validación de grandes volúmenes de datos). Lo solucioné mediante (ejemplo: optimización de consultas SQL / uso de expresiones regulares).
