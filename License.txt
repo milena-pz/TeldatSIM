@@ -1,0 +1,25 @@
+LICENCIA DE USO – TeldatSIM
+===========================
+
+© 2025 Milena Petrova. Todos los derechos reservados.
+
+Este software, denominado "TeldatSIM", ha sido desarrollado por **Milena Petrova** para uso profesional en la gestión de inventario de dispositivos móviles con tarjetas SIM.
+
+Condiciones de uso:
+-------------------
+- Esta licencia autoriza el uso del programa en **un único equipo** por parte del comprador.
+- No se permite la copia, redistribución, reventa ni modificación del programa sin autorización expresa por escrito de la autora.
+- Se prohíbe su uso para ingeniería inversa o con fines ilícitos o no autorizados.
+
+Soporte:
+--------
+Este software incluye soporte básico. Para asistencia técnica o consultas, contactar a:
+📧 milenapetrovaj@gmail.com
+
+Limitación de responsabilidad:
+------------------------------
+El uso de este software es responsabilidad exclusiva del usuario final. La autora no se hace responsable por daños directos o indirectos derivados del uso del programa.
+
+---
+
+Gracias por confiar en TeldatSIM.

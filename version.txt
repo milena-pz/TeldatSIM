@@ -1,0 +1,13 @@
+TeldatSIM – Registro de versiones
+==================================
+
+Versión: 1.0.0
+Fecha de publicación: 06/06/2025
+
+Novedades:
+- Primera versión estable del programa TeldatSIM.
+- Gestión completa de inventario de móviles con tarjetas SIM.
+- Inserción, modificación, eliminación y filtrado de registros.
+- Exportación a Excel integrada.
+- Interfaz profesional con JavaFX, sin necesidad de instalar Java.
+- Manual de usuario incluido en PDF.
