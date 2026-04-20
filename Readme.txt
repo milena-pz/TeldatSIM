@@ -1,6 +1,6 @@
 TeldatSIM – Milena Petrova
 
-¡Gracias por descargar TeldatSIM!
+
 
 Esta es una herramienta práctica y funcional para gestionar el inventario de móviles y tarjetas SIM.
 
